@@ -1,200 +1,82 @@
-# 👋 Welcome to My GitHub Profile!
+# Hey there! 👋
 
-Hi there! I'm **Ami99-sha99**, a passionate **Full-Stack Web Developer** and **AI/ML Specialist** focused on building responsive web applications and contributing to Large Language Model (LLM) advancement through data annotation and post-training.
+I'm **Amisha**, a web developer who's passionate about building things that actually work and solving real problems. Currently working as an **LLM Post Training Intern** at **Ethara AI**, which has been an incredible experience diving into AI and data annotation.
 
----
+## What I Do
 
-## 🚀 About Me
+**By day**: I'm annotating data and helping train large language models at Ethara AI. It's fascinating work - basically teaching AI to be better at understanding what humans actually want.
 
-I'm a developer with expertise in:
-- 💻 **Frontend Development**: HTML5, CSS3, JavaScript - Building interactive web applications
-- 🤖 **AI/ML & Data Science**: LLM post-training, data annotation, human-aligned AI development
-- 🎨 **UI/UX Design**: Responsive design and user experience optimization
-- 📱 **Web Applications**: Dynamic, interactive, and performant applications
+**By night**: Building web applications with HTML, CSS, and JavaScript. Love creating interactive experiences that people enjoy using.
 
----
+## My Recent Projects
 
-## 🏆 Professional Experience
+### E-Commerce Web Page
+Built a full-featured online store from scratch. Added a working shopping cart, product filtering, and made sure it looks good on phones too.
+→ [Check it out](https://github.com/Ami99-sha99/e-commerce-web-page)
 
-### **LLM Post Training Intern** @ Ethara AI ⭐
-**Duration**: October 3, 2026 - January 15, 2026  
-**Location**: Gurugram, Haryana, India  
-**Company**: [Ethara AI - Supercharge your LLM with human aligned data](https://www.ethara.ai)
+### Farm Expense Tracker
+Created this for farmers who need to track their spending. Simple interface, gets the job done. Real-world problem solving.
+→ [See the project](https://github.com/Ami99-sha99/farm-expense-traker)
 
-#### What I Did:
-- ✅ Data annotation and evaluation for Large Language Model post-training
-- ✅ Ensured high-quality training data for AI model improvement
-- ✅ Evaluated and ranked model outputs for quality and alignment
-- ✅ Contributed to human-aligned AI development workflows
-- ✅ Maintained 95%+ accuracy in annotation tasks
+### HRMS (HR Management System)
+Built an HR system for managing employees, attendance, payroll. Learned a lot about how real businesses operate.
+→ [View on GitHub](https://github.com/Ami99-sha99/HRMS)
 
-#### Skills Gained:
-🤖 LLM Architecture | 📊 Data Annotation | 🎯 Quality Assurance | 🛡️ AI Safety | 💡 ML Concepts
+### Weather App
+Integrated with a weather API to show real-time weather data. One of my favorites because it actually fetches live data.
+→ [Live project](https://github.com/Ami99-sha99/weather-app)
 
----
+### Portfolio Website
+My own portfolio to showcase projects. Meta, I know.
+→ [Portfolio](https://github.com/Ami99-sha99/portfolio-website)
 
-## 🛠️ Technical Skills
+### To-Do List App
+A simple but practical task manager. Uses local storage so your tasks stick around.
+→ [To-Do App](https://github.com/Ami99-sha99/to-do-list)
 
-### Web Development
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Responsive Design**: Mobile-first development
-- **APIs**: RESTful API integration, Fetch API
-- **Tools**: Git, GitHub, Web Development Tools
+Plus a few other projects - [weather dashboard](https://github.com/Ami99-sha99/weather-dashboard), [learning JavaScript](https://github.com/Ami99-sha99/learn-js), and a [local practice repo](https://github.com/Ami99-sha99/localrepo).
 
-### AI/ML & Data Science
-- **LLM Post-Training**: Model alignment and human feedback integration
-- **Data Annotation**: Professional-grade labeling with high accuracy
-- **AI Evaluation**: Model output assessment and quality control
-- **AI Safety**: Understanding bias, fairness, and alignment
-- **Quality Metrics**: Performance measurement and improvement
+## Current Internship @ Ethara AI
 
----
+**March 2026 - June 2026**
 
-## 📂 Featured Projects
+I'm working on LLM post-training, which basically means:
+- Annotating training data for AI models
+- Evaluating how well models understand instructions
+- Helping identify when AI gives wrong or unsafe answers
+- Contributing to making AI more aligned with human values
 
-### 🛍️ [E-Commerce Web Page](https://github.com/Ami99-sha99/e-commerce-web-page) ⭐⭐
-A full-featured e-commerce platform with product listings, shopping cart, and checkout functionality.
-- **Tech**: HTML5, CSS3, JavaScript
-- **Features**: Product catalog, cart management, responsive design
-- **GitHub**: [View Project](https://github.com/Ami99-sha99/e-commerce-web-page)
+It's been eye-opening to see how much high-quality data matters for AI. The attention to detail is real.
 
-### 📊 [Farm Expense Tracker](https://github.com/Ami99-sha99/farm-expense-traker)
-Application for tracking and managing farm expenses efficiently.
-- **Tech**: HTML5, CSS3, JavaScript
-- **Use Case**: Agricultural business management
-- **GitHub**: [View Project](https://github.com/Ami99-sha99/farm-expense-traker)
+**Skills I'm picking up:**
+- Understanding how LLMs work
+- Data annotation at scale
+- Quality assurance and standards
+- How AI safety actually works in practice
+- Problem-solving in real-world AI projects
 
-### 👥 [HRMS - Human Resource Management System](https://github.com/Ami99-sha99/HRMS)
-Complete HR management solution for employee tracking and organizational management.
-- **Tech**: HTML5, CSS3, JavaScript
-- **Features**: Employee management, attendance, payroll, reporting
-- **GitHub**: [View Project](https://github.com/Ami99-sha99/HRMS)
+Contact: **hr@ethara.ai** | Website: **www.ethara.ai**
 
-### 🌐 [Portfolio Website](https://github.com/Ami99-sha99/portfolio-website)
-Professional portfolio showcasing projects, skills, and experience.
-- **Tech**: HTML5, CSS3, JavaScript
-- **Purpose**: Personal branding and project showcase
-- **GitHub**: [View Project](https://github.com/Ami99-sha99/portfolio-website)
+## Tech Stack
 
-### ✅ [To-Do List App](https://github.com/Ami99-sha99/to-do-list)
-Interactive to-do list application with task management and persistence.
-- **Tech**: JavaScript, HTML5, CSS3
-- **Features**: Add/edit/delete tasks, local storage, responsive UI
-- **GitHub**: [View Project](https://github.com/Ami99-sha99/to-do-list)
+**Frontend**: HTML5, CSS3, JavaScript (ES6+)  
+**Tools**: Git, GitHub, VS Code  
+**Currently Learning**: More about Python, AI/ML concepts, advanced JavaScript  
 
-### 🌤️ [Weather App](https://github.com/Ami99-sha99/weather-app)
-Real-time weather application with API integration.
-- **Tech**: JavaScript, REST APIs, HTML5, CSS3
-- **Features**: Real-time weather data, location services, forecasts
-- **GitHub**: [View Project](https://github.com/Ami99-sha99/weather-app)
+## What I'm Looking For
 
-### 🎓 [Learn-JS](https://github.com/Ami99-sha99/learn-js)
-JavaScript learning resources and practice exercises.
-- **Tech**: JavaScript fundamentals
-- **Purpose**: Learning and skill development
-- **GitHub**: [View Project](https://github.com/Ami99-sha99/learn-js)
+- Cool projects to work on (web or AI-related)
+- Companies building real products that help people
+- Opportunities to learn and grow in tech
+- Collaboration on interesting problems
 
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ami99-sha99&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ami99-sha99&layout=compact&theme=radical)
-
----
-
-## 🎓 Expertise & Specializations
-
-### Full-Stack Web Development
-- ✅ Frontend Architecture & Design
-- ✅ Responsive Web Design
-- ✅ Interactive User Interfaces
-- ✅ API Integration
-- ✅ Performance Optimization
-
-### AI/ML & Data Science
-- ✅ LLM Post-Training Workflows
-- ✅ Data Annotation & Quality Control
-- ✅ Model Evaluation & Assessment
-- ✅ AI Safety & Alignment
-- ✅ Human Feedback Integration
-
-### Professional Development
-- ✅ Problem Solving
-- ✅ Documentation & Communication
-- ✅ Quality Assurance
-- ✅ Team Collaboration
-- ✅ Continuous Learning
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in:
-- 💼 Collaboration on web development projects
-- 🤖 Discussion about LLM and AI/ML innovations
-- 🎓 Learning opportunities and knowledge sharing
-- 🚀 Contributing to cutting-edge AI projects
-- 📧 Professional networking
-
-**Feel free to reach out!**
+## Let's Chat!
 
 📧 **Email**: amishagujar0303@gmail.com  
-🔗 **GitHub**: [Ami99-sha99](https://github.com/Ami99-sha99)  
-🌐 **Company**: [Ethara AI](https://www.ethara.ai)
+🐙 **GitHub**: [Ami99-sha99](https://github.com/Ami99-sha99)
 
 ---
 
-## 📜 Certifications & Credentials
+Thanks for checking out my profile! If you think we could work together on something, hit me up. Always excited to connect with other builders.
 
-✅ **LLM Post-Training Internship** - Ethara AI  
-✅ **Web Development Projects** - Multiple full-featured applications  
-✅ **Professional Experience** - Data annotation and AI workflows  
-
----
-
-## 🌟 What Makes Me Stand Out
-
-1. **AI Industry Experience** - Real-world LLM post-training exposure
-2. **Full-Stack Capability** - From frontend to AI/ML understanding
-3. **Quality Focused** - 95%+ accuracy in professional tasks
-4. **Continuous Learner** - Always exploring new technologies
-5. **Problem Solver** - Building practical solutions for real challenges
-
----
-
-## 🚀 Currently Working On
-
-- 🎯 Enhancing web development portfolio
-- 📊 Deepening LLM and AI understanding
-- 💡 Building innovative projects
-- 🔍 Exploring new technologies and frameworks
-- 🌍 Contributing to open-source projects
-
----
-
-## 📚 Learning Path
-
-- **Current Focus**: Advanced JavaScript, AI/ML concepts, LLM architectures
-- **Next Goals**: Reinforcement Learning from Human Feedback (RLHF), Advanced Python
-- **Long-term Vision**: Contributing to cutting-edge AI and web technologies
-
----
-
-## 💡 Fun Facts
-
-- 🤖 Passionate about AI and its real-world applications
-- 💻 Love building things that solve real problems
-- 🎓 Continuous learner in tech industry
-- 🌍 Interested in responsible AI development
-
----
-
-⭐ **If you find my projects useful, please give them a star!** It motivates me to create more quality work! 🙏
-
-*Dedicated to building excellent software and advancing AI through responsible, human-aligned development.*
-
----
-
-**Last Updated**: June 4, 2026 | Status: 🟢 Active & Open to Opportunities
+⭐ If you like any of my projects, a star would mean a lot!
